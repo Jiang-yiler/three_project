@@ -9,6 +9,9 @@ lerna-debug.log*
 
 package.json
 
+# suppported files
+materials
+
 node_modules
 dist
 dist-ssr
